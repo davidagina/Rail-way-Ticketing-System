@@ -1,2 +1,4 @@
-package com.railway.entity;public class User {
+package com.railway.entity;
+
+public class User {
 }
